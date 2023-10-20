@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Database Management and Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chkathi311](https://github.com/chkathi311)
+- 👨‍💻 All of my projects are available at [https://github.com/chkathi](https://github.com/chkathi)
 
 - 💬 Ask me about **Java, Python, C++, SQL**
 
